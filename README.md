@@ -11,4 +11,4 @@ Training schedule in 2 months
 ## II. Frontend (VueJS)
 
 
-## III. Backend (NodeJS)
+## III. Backend (Java)
